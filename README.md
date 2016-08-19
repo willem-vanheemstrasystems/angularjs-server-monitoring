@@ -1,6 +1,10 @@
 # angularjs-server-monitoring
 AngularJS - Server Monitoring
 
+Preview of the application
+
+![Image](8484OS_09_01.jpg)
+
 Based on:
 
 'Create a Real Time Server Monitoring App with AngularJS and NodeJS'
